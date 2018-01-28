@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp">
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/questionRadioButton"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        style="@style/plain_text"
+        android:text="@string/aboutSophie"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+
+        <RadioButton
+            android:id="@+id/yes"
+            style="@style/plain_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/yes" />
+
+        <RadioButton
+            android:id="@+id/no"
+            style="@style/plain_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/no" />
+    </RadioGroup>
+    <Button
+        android:onClick="test"
+        android:id="@+id/viewButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        style="@style/button"
+        />
+
+</LinearLayout>

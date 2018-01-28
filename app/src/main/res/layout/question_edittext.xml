@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp">
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/questionEdittext"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        style="@style/plain_text"
+        android:text="@string/aboutSophie"/>
+
+    <EditText
+        android:id="@+id/answerEdittext"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        style="@style/plain_text"
+        android:hint="@string/answer"
+        android:layout_margin="20dp"/>
+    <Button
+        android:id="@+id/viewButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        style="@style/button"
+        android:onClick="test"
+        />
+
+</LinearLayout>

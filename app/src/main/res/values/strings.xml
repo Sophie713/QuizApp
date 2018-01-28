@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="welcome">Welcome!\nChoose a quiz you want to take. :)</string>
+    <string name="psychology">Psychology</string>
+    <string name="english">English</string>
+    <string name="knowledge">General Knowledge</string>
+    <string name="aboutSophie">About Sophie</string>
+
+    <string name="soph1">When is Sophie\'s birthday? (DD.MM.YYYY) </string>
+    <string name="soph2">What is/are Sophie\'s favourite food(s)?</string>
+    <string name="soph3">Who is/are Sophie\'s favourite living writer(s)?</string>
+    <string name="soph4">Does Sophie like spicy food?</string>
+    <string name="soph5">How many cats does Sophie want?</string>
+    <string name="soph6">What is Sophie\'s favourite number?</string>
+    <string name="soph7">What is Sophie\'s favourite drink?</string>
+    <string name="answer">Write your answer in here.</string>
+    <string name="food1">Baguette</string>
+    <string name="food2">Sushi</string>
+    <string name="food3">Salads</string>
+    <string name="food4">Olives</string>
+    <string name="writer1">H. Murakami</string>
+    <string name="writer2">H. Fry</string>
+    <string name="writer3">J.K. Rowling</string>
+    <string name="writer4">S. King</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submit">Submit Answers</string>
+    <string name="finalscore">Your final score is:</string>
+    <string name="again">Try Again</string>
+    <string name="back">Main Page</string>
+
+    <string name="engl1">She ____ a car.</string>
+    <string name="car1">has\'t</string>
+    <string name="car2">didn\'t has</string>
+    <string name="car3">doesn\'t have</string>
+    <string name="car4">had\'t</string>
+    <string name="engl2">Is the following sentence correct?\nHe drove when he hit a tree.</string>
+    <string name="engl3">What do you call this: ❤</string>
+    <string name="engl4">By the time we get to the party all the sushi ____.</string>
+    <string name="sus1">is eaten</string>
+    <string name="sus2">won\'t be eaten</string>
+    <string name="sus3">will have been eaten</string>
+    <string name="sus4">will have eaten</string>
+    <string name="engl5">The word \"comfortable\" has four syllables.</string>
+    <string name="engl6">Is the following sentence correct?\nIf I hadn\'t taken my phone I wouldn\'t have been able to take the photo.</string>
+    <string name="engl7">The book ___ written by W. Shakespeare.</string>
+    <string name="engl8">If I had studied more I ___ the answers.</string>
+    <string name="stu1">will know</string>
+    <string name="stu2">would know</string>
+    <string name="stu3">would have known</string>
+    <string name="stu4">knew</string>
+    <string name="engl9">Have you ___ seen the Eiffel Tower?</string>
+
+    <string name="gekn1">Who wrote Christmas Carol?</string>
+    <string name="writ1">J. Irving</string>
+    <string name="writ2">Ch. Dickens</string>
+    <string name="writ3">E. Hemingway</string>
+    <string name="writ4">Santa Claus</string>
+    <string name="gekn2">Complete the following quote:\nVeni, ____, vici.</string>
+    <string name="gekn3">What year did WWII end?</string>
+    <string name="gekn4">Black tea and Green tea are from a different plant.</string>
+    <string name="gekn5">Who directed Sweeney Todd?</string>
+    <string name="dir1">S. Spielberg</string>
+    <string name="dir2">P. Almodovar</string>
+    <string name="dir3">A. Cuaron</string>
+    <string name="dir4">T. Burton</string>
+    <string name="gekn6">Who painted Lady with an Ermine?</string>
+    <string name="paint1">L. DaVinci</string>
+    <string name="paint2">P. Picasso</string>
+    <string name="paint3">V. Van Gogh</string>
+    <string name="paint4">C. Monet</string>
+    <string name="gekn7">What is the capital city of Australia?</string>
+    <string name="gekn8">Where was Einstein born?</string>
+    <string name="enst1">Ulm</string>
+    <string name="enst2">Austria</string>
+    <string name="enst3">Leoben</string>
+    <string name="enst4">Germany</string>
+    <string name="gekn9">Who discovered penicillin?\n(Only last name)</string>
+
+    <string name="psy1">People who differ a lot, in general, have a better intimate relationship than people who are very much alike.</string>
+    <string name="psy2">Which of these are NOT one of V. Satir\'s Family Roles?</string>
+    <string name="famNam1">Computer</string>
+    <string name="famNam2">Placator</string>
+    <string name="famNam3">Boss</string>
+    <string name="famNam4">Star</string>
+    <string name="psy3">Who proved that over 80% people will kill someone, just because an authority told them to? (last name)</string>
+    <string name="psy4">Medication is better suited for treating mental disorders than psychotherapy.</string>
+    <string name="psy5">Which of the following studied conditioning (lerning through rewards)?</string>
+    <string name="cond1">C.G.Jung</string>
+    <string name="cond2">E.Thorndike</string>
+    <string name="cond3">B.F.Skinner</string>
+    <string name="cond4">A.Bandura</string>
+    <string name="psy6">Who led The Stanford Prison Experiment?</string>
+    <string name="psy7">According to L.Kohlberg only 10\-15% poeple have an autonomous moral code.</string>
+    <string name="psy8">When you are happy it is harder to recall sad memories.</string>
+
+
+</resources>
